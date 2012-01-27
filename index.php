@@ -20,7 +20,7 @@
 <body>
 	<h1>UrlExposer</h1>
 	<p>
-		UrlExposer let's you see the URL of the page you will eventually reach by following a shortened link, thereby <em>exposing</em> its true goal.
+		UrlExposer lets you see the URL of the page you will eventually reach by following a shortened link, thereby <em>exposing</em> its true goal.
 	</p>
 	<form method="post" action="/">
 		<fieldset>
